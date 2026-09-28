@@ -4,6 +4,10 @@
 
 > **Краткий итог:** рассмотрено 4 потенциальных вектора доступа; 2 подтверждены на физическом устройстве.
 
+## С чего начать
+
+Корневой README — краткая навигация по проекту. **Главный доклад — [report.md](report.md)**: начните с него, чтобы получить общую картину, выводы и ограничения. Затем откройте подробные [отчёты по векторам](#структура-репозитория); состав материалов приведён в [реестре доказательств](evidence/README.md).
+
 ## Результаты
 
 | Вектор | Статус | Результат |
@@ -67,6 +71,10 @@
 **An assessment of four potential access vectors for the RP2040-based CyberSafe device.**
 
 > **Summary:** 4 potential access vectors were assessed; 2 were confirmed on the physical device.
+
+## Where to start
+
+This README is a short guide to the project. **The main report is [report.md](report.md)**; start there for the assessment overview, findings, and limitations. Then read the [detailed vector reports](#repository-layout); the [evidence register](evidence/README.md) lists the available supporting materials.
 
 ## Results
 
